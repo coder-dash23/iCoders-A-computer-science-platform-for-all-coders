@@ -1,0 +1,12 @@
+.footer{
+    background-color: black;
+    height: 40px;
+    color: aliceblue;
+}
+
+.foot{
+text-align: center;
+position: relative;
+top: 8px;
+
+}
